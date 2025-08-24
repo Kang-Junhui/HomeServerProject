@@ -4,7 +4,7 @@ NAS의 필요로 N5105 ITX 보드를 구매했으나 우연히 서버용 MATX와
 이후 늘어난 하드웨어를 효율적으로 배치하기 위해 기존 선반을 제거하고 제대로 된 서버랙 구축 계획을 세움.  
 [**자세한 기술 선택 및 의사 결정 과정 (DECISIONS.md)**](./DECISIONS.md)  
 ※ 본 프로젝트는 2025.07.11의 [DiscordBot](https://github.com/Kang-Junhui/DiscordBot)개발을 시작일로 잡습니다.  
-## 프로젝트 개요  
+## 프로젝트 개요(Overview)  
 - 프로젝트 기간: 2025.07.11 - 진행 중
 - 주요 목표
   - 여러 하드웨어를 통한 CPU바운드 프로젝트와 메모리바운드 프로젝트의 분리
@@ -15,7 +15,7 @@ NAS의 필요로 N5105 ITX 보드를 구매했으나 우연히 서버용 MATX와
   - **2025.08.21:** Arc A380 구매
   - **2025.08.24:** 프로젝트 Repository 생성
   - [**전체 빌드 로그 (BUILD_LOG.md)**](./BUILD_LOG.md)
-## 기술 스택  
+## 기술 스택(Tech Stack)  
 #### 하드웨어
 - CPU바운드 미니pc 서버
   - CPU: Ryzen5 5600G  
@@ -50,3 +50,5 @@ NAS의 필요로 N5105 ITX 보드를 구매했으나 우연히 서버용 MATX와
 - OS: Ubuntu Sever 22.04 LTS
 - Virtualization: Proxmox
 - Containerization: Docker
+## 아키텍처(Architecture)
+<img src="./reference/architecture.png" width=691 height=447/>  
