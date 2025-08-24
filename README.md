@@ -3,7 +3,7 @@
 NAS의 필요로 N5105 ITX 보드를 구매했으나 우연히 서버용 MATX와 E5-2620 v3(6C12T)를 얻게 되었고, 부족한 코어 수를 늘려 NAS를 포함한 가상화 서버 구축으로 방향을 틂.  
 이후 늘어난 하드웨어를 효율적으로 배치하기 위해 기존 선반을 제거하고 제대로 된 서버랙 구축 계획을 세움.  
 [**자세한 기술 선택 및 의사 결정 과정 (DECISIONS.md)**](./DECISIONS.md)  
-※ 본 프로젝트는 2025.07.11의 [DiscordBot](https://github.com/Kang-Junhui/DiscordBot)를 시작일로 잡습니다.  
+※ 본 프로젝트는 2025.07.11의 [DiscordBot](https://github.com/Kang-Junhui/DiscordBot)개발을 시작일로 잡습니다.  
 ## 프로젝트 개요  
 - 프로젝트 기간: 2025.07.11 - 진행 중
 - 주요 목표
