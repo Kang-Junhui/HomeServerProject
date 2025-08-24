@@ -51,4 +51,4 @@ NAS의 필요로 N5105 ITX 보드를 구매했으나 우연히 서버용 MATX와
 - Virtualization: Proxmox
 - Containerization: Docker
 ## 아키텍처(Architecture)
-<img src="./reference/architecture.png" width=691 height=447/>  
+<img src="./Reference/Architecture.png" width=691 height=447/>  
