@@ -57,6 +57,6 @@ NAS의 필요로 N5105 ITX 보드를 구매했으나 우연히 서버용 MATX와
 - Virtualization: Proxmox
 - Containerization: Docker
 ## 아키텍처(Architecture)
-<img src="./Reference/Architecture.png" width=691 height=447/>  
-현재 라우터 보안 상태는 해외 ip 접속 차단 및 DDNS 사용 중.
+<img src="./Reference/Architecture.png" width="100%" height="100%"/>  
+현재 라우터 보안 상태는 해외 ip 접속 차단 및 DDNS 사용 중.  
 pfsense 방화벽 추가시 pfsense를 메인 라우터로 돌리고 기존 메시 컨트롤러는 AP모드로 변경해 에이전트만 관리하도록 전환.  
