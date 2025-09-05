@@ -51,7 +51,7 @@ NAS의 필요로 N5105 ITX 보드를 구매했으나 우연히 서버용 MATX와
   - D=300mm
   - H=575mm, H1=535mm(12U+@)
   - 미니pc 및 네트워크 기기만 사용할 것으로 보고 실주문에서 상단 보강재 제거  
-<img src="./Reference/isometric.png" width="20%" height="20%"/><img src="./Reference/front.png" width="16%" height="16%"/><img src="./Reference/side.png" width="20%" height="20%"/><img src="./Reference/top.png" width="20%" height="20%"/>
+<img src="./Reference/isometric.png" width="25%" height="25%"/><img src="./Reference/front.png" width="25%" height="25%"/><img src="./Reference/side.png" width="25%" height="25%"/><img src="./Reference/top.png" width="20%" height="20%"/>
 #### 소프트웨어
 - OS: Ubuntu Sever 22.04 LTS
 - Virtualization: Proxmox
