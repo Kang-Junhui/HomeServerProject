@@ -17,4 +17,5 @@
 2025.09.05: proxmox os 설치  
 2025.09.08: tailscale vpn 구성  
 2025.09.10: truenas-scale vm 구성  
+2025.10.29: 음악 스트리밍 jellyfin 서비스 구성  
 2025.11.10: tailscale gateway vm 구성, 공유기 외부망 접속 해제
