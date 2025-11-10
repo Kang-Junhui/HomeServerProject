@@ -10,11 +10,7 @@ NAS의 필요로 N5105 ITX 보드를 구매했으나 우연히 서버용 MATX와
   - 여러 하드웨어를 통한 CPU바운드 프로젝트와 메모리바운드 프로젝트의 분리
   - 각 하드웨어간 통신을 위한 최대 2.5G 내부망 구축
   - 도커를 이용한 서비스 운영 환경 구축  
-- 최근 빌드 로그
-  - 2025.09.05: proxmox os 설치  
-  - 2025.09.08: tailscale vpn 구성  
-  - 2025.09.10: truenas-scale vm 구성  
-  - **전체 빌드 로그 ([BUILD_LOG.md](./BUILD_LOG.md))**
+- **전체 빌드 로그 ([BUILD_LOG.md](./BUILD_LOG.md))**
 ## 기술 스택(Tech Stack)  
 #### 하드웨어
 - CPU바운드 미니pc 서버
